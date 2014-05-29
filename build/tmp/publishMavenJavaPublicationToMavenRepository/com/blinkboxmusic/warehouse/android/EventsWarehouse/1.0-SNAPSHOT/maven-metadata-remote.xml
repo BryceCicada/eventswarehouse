@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.blinkboxmusic.warehouse.android</groupId>
+  <artifactId>EventsWarehouse</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140527.144933</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20140527144933</lastUpdated>
+  </versioning>
+</metadata>

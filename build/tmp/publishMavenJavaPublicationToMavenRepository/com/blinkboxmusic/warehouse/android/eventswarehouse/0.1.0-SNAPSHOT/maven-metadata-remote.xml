@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.blinkboxmusic.warehouse.android</groupId>
+  <artifactId>eventswarehouse</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140527.154616</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140527154617</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0-20140527.154616-1</value>
+        <updated>20140527154616</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.0-20140527.154616-1</value>
+        <updated>20140527154616</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,38 @@
+{
+  "version" : "1.0.1",
+  "name" : "EventsWarehouse",
+  "number" : "1401200831617",
+  "type" : "GRADLE",
+  "buildAgent" : {
+    "name" : "Gradle",
+    "version" : "1.12"
+  },
+  "agent" : {
+    "name" : "Gradle",
+    "version" : "1.12"
+  },
+  "started" : "2014-05-27T15:27:11.576+0100",
+  "durationMillis" : 57,
+  "principal" : "chrisnix",
+  "artifactoryPrincipal" : "publish",
+  "licenseControl" : {
+    "runChecks" : false,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : false,
+    "licenseViolationsRecipientsList" : "",
+    "scopesList" : ""
+  },
+  "buildRetention" : {
+    "count" : -1,
+    "deleteBuildArtifacts" : true,
+    "buildNumbersNotToBeDiscarded" : [ ]
+  },
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
